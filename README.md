@@ -8,3 +8,6 @@
 >На сегодняшний день Вы проживаете в стране <СТРАНА>, в городе <МЕСТО_ПРОЖИВАНИЯ>, и вы родились в <ТАКОМ_ТО_ГОДУ>".
 ## Запуск программы
 Проект можно открыть в Pycharm. Запустить файл main.py, ввести запрашиваемые данные. 
+### Тесты
+![Test1](https://github.com/ekolenchuk/Ft_220008_Kolenchuk_1_2/blob/master/test1.png)
+![Test2](https://github.com/ekolenchuk/Ft_220008_Kolenchuk_1_2/blob/master/test2.png)
